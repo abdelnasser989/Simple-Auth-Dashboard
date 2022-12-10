@@ -43,9 +43,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `email`, `address`, `phone`, `gender`, `privileges`) VALUES
-(1, 'ahmedali', '$2y$10$Occc4Bu/RZJHGSsqsEOnWOSHuxaTPNUG9Lfz8fI8UQufZHi0w1LM.', 'ahmedali@bravo.com', 'zagazige', 342423442, 0, 1),
-(2, 'islamahmed', '$2y$10$Occc4Bu/RZJHGSsqsEOnWOSHuxaTPNUG9Lfz8fI8UQufZHi0w1LM.', 'islamahmed@bravo.com', 'diarb negm', 3123123, 0, 0),
-(3, 'islam', '$2y$10$Occc4Bu/RZJHGSsqsEOnWOSHuxaTPNUG9Lfz8fI8UQufZHi0w1LM.', 'islam@gmail.com', 'zag', 3143, 0, 1);
+(1, 'ahmed', '$2y$10$Occc4Bu/RZJHGSsqsEOnWOSHuxaTPNUG9Lfz8fI8UQufZHi0w1LM.', 'ahmed@yahoo.com', 'cairo', 342423442, 0, 1),
+(2, 'omar', '$2y$10$Occc4Bu/RZJHGSsqsEOnWOSHuxaTPNUG9Lfz8fI8UQufZHi0w1LM.', 'omar@gmail.com', 'cairo', 3123123, 0, 0),
+(3, 'nasser', '$2y$10$Occc4Bu/RZJHGSsqsEOnWOSHuxaTPNUG9Lfz8fI8UQufZHi0w1LM.', 'nasser@gmail.com', 'maadi', 3143, 0, 1);
 
 --
 -- Indexes for dumped tables
